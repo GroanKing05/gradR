@@ -254,6 +254,79 @@
         "courseGradingPolicy": {}
     },
     {
+        "courseCode": "MA6.102",
+        "courseName": "Probability and Random Processes",
+        "courseSubject": "Mathematics",
+        "courseCredits": 4,
+        "courseSemester": "2-1",
+        "courseDuration": "fullSem",
+        "courseDescription": "This course introduces the concepts of Probability, Random Variables, and Random Processes.",
+        "coursePrerequisites": "",
+        "courseGradingPolicy": {
+            "Quiz 1": [15, 15],
+            "Quiz 2": [15, 15],
+            "Mid Sem": [20, 20],
+            "End Sem": [30, 30],
+            "Assignments": [[3.33, 50], [3.33, 30], [3.34, 35], [3.34, 45], [3.33, 30], [3.33, 30]]
+        }
+    },
+    {
+        "courseCode": "EC2.201",
+        "courseName": "VLSI Design",
+        "courseSubject": "Electronics and Communication",
+        "courseCredits": 4,
+        "courseSemester": "2-1",
+        "courseDuration": "fullSem",
+        "courseDescription": "This course introduces the concepts of MOSFETs, and different circuit topologies used in VLSI design, like CMOS, pseudoNMOS, CVSL, Dynamic Logic, etc.",
+        "coursePrerequisites": "",
+        "courseGradingPolicy": {
+            "Lab": [15, 40],
+            "Project": [20, 20],
+            "Quiz 1": [10, 10],
+            "Quiz 2": [10, 10],
+            "Mid Sem": [20, 20],
+            "End Sem": [30, 30],
+            "Assignments": [[2.5, 100], [2.5, 40], [2.5, 20], [2.5, 30]]
+        }
+    },
+    {
+        "courseCode": "EC5.202",
+        "courseName": "Systems Thinking",
+        "courseSubject": "Electronics and Communication",
+        "courseCredits": 4,
+        "courseSemester": "2-1",
+        "courseDuration": "fullSem",
+        "courseDescription": "This course introduces the concepts of Laplace Transforms in Mechanical and Electrical Systems, and also the concepts in Gene Regulatory Networks.",
+        "coursePrerequisites": "",
+        "courseGradingPolicy": {
+            "Project": [20, 20],
+            "Quiz 2": [10, 10],
+            "Mid Sem": [20, 100],
+            "End Sem": [30, 35],
+            "Assignments": [[10, 100], [5, 20], [5, 10]]
+        }
+    },
+    {
+        "courseCode": "EC5.201",
+        "courseName": "Signal Processing",
+        "courseSubject": "Electronics and Communication",
+        "courseCredits": 4,
+        "courseSemester": "2-1",
+        "courseDuration": "fullSem",
+        "courseDescription": "This course introduces the concepts of different transforms in discrete and continuous time. The course will also cover the basics of digital filters.",
+        "coursePrerequisites": "",
+        "courseGradingPolicy": {
+            "Project": [15, 15],
+            "Mid Lab-Exam": [10, 30],
+            "Lab Submissions": [[1.5, 10],[1.5, 10],[1.5, 10],[1.5, 10],[1.5, 10],[1.5, 10],[1.5, 10],[1.5, 10],[1.5, 10],[1.5, 10]],
+            "End Sem": [35, 60],
+            "Assignments": [[3.57, 50], [3.57, 50], [3.57, 50], [3.57, 50], [3.57, 50], [3.57, 50], [3.58, 50]],
+            "Quiz 1": [10, 19],
+            "Quiz 2": [10, 15],
+            "Mid Sem": [20, 40]
+        }
+    },
+    {
         "courseCode": "CS4.301",
         "courseName": "Data and Applicatons",
         "courseSubject": "Computer Science",
